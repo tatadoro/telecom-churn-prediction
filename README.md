@@ -93,10 +93,12 @@
 
    ```bash
    pip install -r requirements.txt
+   ```
+   
 3. Откройте ноутбук:
-
-   `notebooks/telecom_churn_churn_prediction.ipynb`
-
+   ```bash
+   notebooks/telecom_churn_churn_prediction.ipynb
+   ```
    и последовательно выполните все ячейки.
 
    Данные будут загружены автоматически:
